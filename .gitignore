@@ -1,0 +1,18 @@
+# Ignore virtual environment
+myenv/
+venv/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore build files
+build/
+
+# Ignore database files if needed
+*.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
